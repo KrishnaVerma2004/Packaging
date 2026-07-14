@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "/",
+  baseURL: "https://packaging-j8ui.onrender.com",
   withCredentials: true,
 });
 
