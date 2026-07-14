@@ -51,8 +51,7 @@ const Login = () => {
               </span>
             </div>
             <div className="brand-text">
-              <h1>PackFlow Pro</h1>
-              <p className="brand-subtitle">PACKAGING OPERATIONS</p>
+              <h1>P SQUARE</h1>
             </div>
           </header>
 
