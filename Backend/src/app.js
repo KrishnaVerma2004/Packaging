@@ -9,7 +9,7 @@ const dieRoutes = require("./routes/die.routes");
 app.use(express.json());
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "https://packaging-8dmq.onrender.com",
     credentials: true,
   }),
 );
