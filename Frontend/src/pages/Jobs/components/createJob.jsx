@@ -97,7 +97,7 @@ const CreateJob = () => {
       {/* Sidebar Navigation (Minimized for context) */}
       <aside className="sidebar">
         <div className="brand">
-          <h1>P SQAURE</h1>
+          <h1>P SQUARE</h1>
         </div>
         <nav className="nav-links">
           <button className="nav-item" onClick={handleDashboard}>
